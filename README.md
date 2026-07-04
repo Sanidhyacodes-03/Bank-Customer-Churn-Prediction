@@ -308,8 +308,6 @@ This application helps banks and financial institutions to:
 
 ### Skills
 
-### Skills
-
 - Python
 - Machine Learning
 - Data Analytics
