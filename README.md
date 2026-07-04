@@ -1,5 +1,8 @@
 # 🏦 Bank Customer Churn Prediction Dashboard
 
+### 🌐 Live Demo
+**https://predictive-bank-analytics.streamlit.app/**
+
 An interactive Machine Learning dashboard built using **Python**, **Streamlit**, and **Scikit-Learn** to predict customer churn in the banking sector.
 
 The application helps identify customers who are likely to leave the bank, enabling businesses to take proactive customer retention actions through data-driven insights.
